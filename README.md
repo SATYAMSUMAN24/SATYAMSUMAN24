@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Satyam Suman</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | React.js | DSA Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | React.js | DSA Enthusiast || Data Analyst </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SATYAMSUMAN24&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -13,19 +13,21 @@
 - 💬 Ask me about: **React.js, Java, JavaScript, Web Development**  
 - 📫 Reach me at: **satyamsuman2003@gmail.com** | **chikuss2003@gmail.com**  
 - 📱 Contact: **+91-9905927761**  
-- ⚡ Fun fact: **I build apps that solve real problems & love experimenting with new tech**  
+- ⚡ Fun fact: **I build apps that solve real problems & love experimenting with new tech**
+- Portfolio : https://satyam-suman-portfolio-1.vercel.app/
+- Portfolio 2 : https://satyamsumanreact12.vercel.app/
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/satyam-suman" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-suman2003/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
   </a>
   <a href="https://github.com/SATYAMSUMAN24" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/satyamsuman6349/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">
@@ -49,7 +51,8 @@
 - 📰 **News App** – Real-time updates & category filtering  
 - 🌦️ **Weather App** – Location-based weather with geolocation APIs  
 - 🎓 **Educational Website** – Quizzes, progress tracking & video lectures  
-- 🏢 **Kalolytic Clone** – Custom clone with animations, hero sections & contact forms  
+- 🏢 **Kalolytic Clone** – Custom clone with animations, hero sections & contact forms
+-    **Digital Loan Process** - Loan application workflow
 
 ---
 
