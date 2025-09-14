@@ -55,13 +55,28 @@
 -    **Digital Loan Process** - Loan application workflow
 
 ---
+### 🎓 Education
+- **B.Tech in Computer Science & Engineering**  
+  *Biju Patnaik University of Technology (BPUT), Odisha*  
+  *2021 – 2025*  
+
+---
+
+### 💼 Experience
+- **Frontend Developer Intern – Kalolytics Solution**  
+  *May 2025 – July 2025 (3 Months)*  
+  - Worked on developing responsive UI using **HTML, CSS, JavaScript, and React.js**  
+  - Improved user experience by implementing animations, reusable components, and optimized layouts  
+  - Collaborated with the backend team to integrate REST APIs  
+
+---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYAMSUMAN24&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAMSUMAN24&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAMSUMAN24&layout=compact&theme=radical" alt="languages"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SATYAMSUMAN24&show_icons=true&locale=en&layout=compact" alt="SATYAMSUMAN24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SATYAMSUMAN24&show_icons=true&locale=en" alt="SATYAMSUMAN24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAMSUMAN24&" alt="SATYAMSUMAN24" /></p>
 
 ---
 
