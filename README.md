@@ -8,15 +8,15 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Full-stack projects** (E-commerce, Travel Website, Trading Platform, News App, Weather App, Educational Website, Kalolytic Clone)  
-- 🌱 I’m learning **MERN Stack, Java, DSA, Cloud Technologies**  
-- 💬 Ask me about **Web Development, React.js, Java, JavaScript, DSA**  
+- 🌱 I’m learning **Full Stack, Java, DSA, Cloud Technologies, Python, Data Science, Ai**
+- 💬 Ask me about **Web Development, React.js, Java, JavaScript, DSA Python, Data Science**  
 - ⚡ Fun fact: **I love building real-world applications & experimenting with new tech**  
 
 ---
 
 ### 🎓 Education  
-- **B.Tech in Computer Science Engineering**  (2021 - 2025)
-  Biju Patnaik University of Technology (BPUT), Odisha  
+- **B.Tech in Computer Science Engineering** 
+  Biju Patnaik University of Technology (BPUT), Odisha , India (2021 - 2025)
 
 ---
 
