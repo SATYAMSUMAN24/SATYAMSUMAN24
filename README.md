@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Suman</h1>
-<h3 align="center">A passionate Full Stack Developer and Coding Enthusiast</h3>
+<h3 align="center">Full Stack Developer || Data Analyst || Computer Science Engineer </h3>
 <img align="right" width=400 alt="coding" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SATYAMSUMAN24&label=Profile%20views&color=0e75b6&style=flat" alt="SATYAMSUMAN24" /> </p>
