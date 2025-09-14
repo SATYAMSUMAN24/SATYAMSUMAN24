@@ -64,7 +64,7 @@
 
 ### 💼 Experience
 - **Frontend Developer Intern – Kalolytics Solution**  
-  *May 2025 – July 2025 (3 Months)*  
+  *July 2025 – Sept 2025 (3 Months)*  
   - Worked on developing responsive UI using **HTML, CSS, JavaScript, and React.js**  
   - Improved user experience by implementing animations, reusable components, and optimized layouts  
   - Collaborated with the backend team to integrate REST APIs  
