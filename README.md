@@ -86,3 +86,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SATYAMSUMAN24&show_icons=true&locale=en" alt="SATYAMSUMAN24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SATYAMSUMAN24&" alt="SATYAMSUMAN24" /></p>
+
+### ✨ Motto  
+_"Keep building, keep learning — every line of code is a step closer to mastery."_  
