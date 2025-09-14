@@ -15,14 +15,14 @@
 ---
 
 ### 🎓 Education  
-- **B.Tech in Computer Science Engineering**  
+- **B.Tech in Computer Science Engineering**  (2021 - 2025)
   Biju Patnaik University of Technology (BPUT), Odisha  
 
 ---
 
 ### 💼 Internship  
 - **Kaloytic Solutions** | *Frontend Developer Intern*  
-  ⏳ 3 Months Internship  
+  ⏳ 3 Months Internship  (July 2025 - Sept 2025)
   - Worked on **UI/UX improvements** and **responsive design**  
   - Built components using **HTML, CSS, JavaScript, React.js**  
   - Optimized frontend performance and animations  
@@ -36,7 +36,8 @@
 - 📰 [News Application](#) – Live news with filters  
 - 🌦 [Weather App](#) – Location-based weather updates  
 - 🎓 [Educational Website](#) – Video lectures, quizzes & progress tracking  
-- 🏢 [Kalolytic Clone Website](#) – Custom frontend with animations  
+- 🏢 [Kalolytic Clone Website](#) – Custom frontend with animations
+ 
 
 ---
 
