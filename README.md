@@ -15,7 +15,8 @@
 
 ### 🎓 Education  
 - **B.Tech in Computer Science Engineering** 
-  Biju Patnaik University of Technology (BPUT), Odisha , India (2021 - 2025)
+
+    Biju Patnaik University of Technology (BPUT), Odisha , India (2021 - 2025)
 
 ---
 
@@ -61,7 +62,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satyamsuman2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/satyam-suman" height="30" width="40" /></a>
 <a href="https://github.com/SATYAMSUMAN24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github.com/SATYAMSUMAN24" height="30" width="40" /></a>
-<a href="https://www.instagram.com/satyamsuman6349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+
+  
+  <a href="https://www.instagram.com/satyamsuman6349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 📧 **Email:** satyamsuman2003@gmail.com | chikuss2003@gmail.com  
