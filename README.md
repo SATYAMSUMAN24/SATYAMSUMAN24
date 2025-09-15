@@ -40,7 +40,7 @@
 
 ---
 
-### 📑 My Resume  
+### 📑 My Resume  & Portfolio
 <a href="/doc/Satyamsuman__resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Full%20Stack%20Developer-blue?style=for-the-badge&logo=readthedocs" />
 </a>  
@@ -48,6 +48,12 @@
 <a href="/doc/Satyamsuman_data_analysis.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Data%20Analyst-green?style=for-the-badge&logo=readthedocs" />
 </a>  
+<a href="https://satyam-suman-portfolio-1.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" />
+</a>
+<a href="https://satyamsumanreact12.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=vercel" />
+</a>
 
 ---
 
